@@ -1,0 +1,18 @@
+{
+  "name": "distributor",
+  "version": "1.0.0",
+  "description": "DistributorSaveMe",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Didula",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^5.0.2"
+  },
+  "dependencies": {
+    "npm": "^6.9.0"
+  }
+}
